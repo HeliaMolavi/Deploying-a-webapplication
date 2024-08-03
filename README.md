@@ -1,10 +1,9 @@
-Sure, here's a detailed and specific scenario for practicing DevOps Level 1 skills, with clear explanations and tasks for each section:
 
 ### Comprehensive DevOps Level 1 Practice Scenario
 
 #### Project Overview
 
-You and your brother will deploy and manage a simple web application, a Flask blog application, using various DevOps tools and practices. This project will cover Linux, Git, Docker, Ansible and automation, observability, backup, and CI/CD.
+You  will deploy and manage a simple web application, a Flask blog application, using various DevOps tools and practices. This project will cover Linux, Git, Docker, Ansible and automation, observability, backup, and CI/CD.
 
 ---
 
