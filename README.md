@@ -1,5 +1,4 @@
 # Deploying-a-webapplication
-Certainly! Here is a more detailed and color-coded guide for each step of the scenario:
 
 ### Detailed Scenario: Deploying a Web Application
 
